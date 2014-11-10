@@ -1,4 +1,4 @@
 data-science
 ============
 
-Git repo for Data Science course
+Github repo for John's Hopkins Data Science course
